@@ -1,0 +1,16 @@
+# Quicktask v1.1
+
+CURRENT TASKS:
+  - Find solution for the certificate
+    * Added [Thu 2012-02-16]
+    * Start [Thu 2012-02-16] [17:35]
+  - Fix chat problem on IE with regular expressions
+    * Start [Thu 2012-02-16] [18:26]
+    * This makes the user id fail to be parsed from the url
+    * Added [Wed 2012-02-15]
+    * DONE [Thu 2012-02-16]
+  - Change the documentation to reflect Michal's comment
+    * Added [Thu 2012-02-16]
+COMPLETED TASKS:
+
+# vim:ft=quicktask
