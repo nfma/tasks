@@ -4,16 +4,38 @@ CURRENT TASKS:
   - Find solution for the certificate
     * Added [Thu 2012-02-16]
     * Start [Thu 2012-02-16] [17:35]
+    * talked to heroku, let's see what they say about this now
+  - Fix bug of the 404s being changed to 200 in production only
+    * Added [Sat 2012-02-18]
+  - Do create post
+    * Added [Fri 2012-02-17]
+  - Do get all posts
+    * Added [Fri 2012-02-17]
+  - Do get a post
+    * Added [Fri 2012-02-17]
+COMPLETED TASKS:
   - Fix chat problem on IE with regular expressions
     * Start [Thu 2012-02-16] [18:26]
     * This makes the user id fail to be parsed from the url
     * Added [Wed 2012-02-15]
     * DONE [Thu 2012-02-16]
-  - Change the documentation to reflect Michal's comment
-    * Added [Thu 2012-02-16]
   - Deploy cmc-community to banana
     * Added [Thu 2012-02-16]
     * DONE [Thu 2012-02-16]
-COMPLETED TASKS:
+  - Change the documentation to reflect Michal's comment
+    * Added [Thu 2012-02-16]
+    * Start [Fri 2012-02-17] [13:17]
+    * DONE [Fri 2012-02-17]
+  - Remove the upper bound size restriction to the attachments upload
+    * Added [Fri 2012-02-17]
+    * CANCELLED
+  - Do create community user
+    * Added [Fri 2012-02-17]
+    * Start [Fri 2012-02-17] [23:08]
+    * DONE [Sat 2012-02-18]
+  - Do get community user
+    * Added [Fri 2012-02-17]
+    * Start [Sat 2012-02-18] [01:04]
+    * DONE [Sat 2012-02-18]
 
 # vim:ft=quicktask
