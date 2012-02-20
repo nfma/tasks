@@ -5,14 +5,15 @@ CURRENT TASKS:
     * Added [Thu 2012-02-16]
     * Start [Thu 2012-02-16] [17:35]
     * talked to heroku, let's see what they say about this now
-  - Fix bug of the 404s being changed to 200 in production only
-    * Added [Sat 2012-02-18]
   - Do create post
     * Added [Fri 2012-02-17]
+    * Start [Mon 2012-02-20] [21:39]
   - Do get all posts
     * Added [Fri 2012-02-17]
+    * Start [Mon 2012-02-20] [21:39]
   - Do get a post
     * Added [Fri 2012-02-17]
+    * Start [Mon 2012-02-20] [21:39]
 COMPLETED TASKS:
   - Fix chat problem on IE with regular expressions
     * Start [Thu 2012-02-16] [18:26]
@@ -37,5 +38,9 @@ COMPLETED TASKS:
     * Added [Fri 2012-02-17]
     * Start [Sat 2012-02-18] [01:04]
     * DONE [Sat 2012-02-18]
+  - Fix bug of the 404s being changed to 200 in production only
+    * Added [Sat 2012-02-18]
+    * Start [Mon 2012-02-20] [11:17]
+    * DONE [Mon 2012-02-20]
 
 # vim:ft=quicktask
