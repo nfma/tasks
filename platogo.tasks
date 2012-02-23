@@ -1,16 +1,6 @@
 # Quicktask v1.1
 
 CURRENT TASKS:
-  - Get User Profile
-    * Added [Thu 2012-02-23]
-  - Has Terms and Conditions doc Accepted
-    * Added [Thu 2012-02-23]
-  - Accept Terms and Conditions doc
-    * Added [Thu 2012-02-23]
-  - Flag Post
-    * Added [Thu 2012-02-23]
-  - Like Post
-    * Added [Thu 2012-02-23]
   - Get Top Analysis
     * Added [Thu 2012-02-23]
   - Get Top Comments
@@ -67,6 +57,27 @@ COMPLETED TASKS:
   - Do get a post
     * Added [Fri 2012-02-17]
     * Start [Mon 2012-02-20] [21:39]
+    * DONE [Thu 2012-02-23]
+  - Get User Profile
+    * Added [Thu 2012-02-23]
+    * DONE [Thu 2012-02-23]
+  - Has Terms and Conditions doc Accepted
+    * Added [Thu 2012-02-23]
+    * DONE [Thu 2012-02-23]
+  - Accept Terms and Conditions doc
+    * Added [Thu 2012-02-23]
+    * DONE [Thu 2012-02-23]
+  - Pagination seems to have an error on get all posts
+    * Added [Thu 2012-02-23]
+    * DONE [Thu 2012-02-23]
+  - Remove the total in the collections
+    * Added [Thu 2012-02-23]
+    * DONE [Thu 2012-02-23]
+  - Flag Post
+    * Added [Thu 2012-02-23]
+    * DONE [Thu 2012-02-23]
+  - Like Post
+    * Added [Thu 2012-02-23]
     * DONE [Thu 2012-02-23]
 
 # vim:ft=quicktask
