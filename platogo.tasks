@@ -1,19 +1,26 @@
 # Quicktask v1.1
 
 CURRENT TASKS:
-  - Find solution for the certificate
-    * Added [Thu 2012-02-16]
-    * Start [Thu 2012-02-16] [17:35]
-    * talked to heroku, let's see what they say about this now
-  - Do create post
-    * Added [Fri 2012-02-17]
-    * Start [Mon 2012-02-20] [21:39]
-  - Do get all posts
-    * Added [Fri 2012-02-17]
-    * Start [Mon 2012-02-20] [21:39]
-  - Do get a post
-    * Added [Fri 2012-02-17]
-    * Start [Mon 2012-02-20] [21:39]
+  - Get User Profile
+    * Added [Thu 2012-02-23]
+  - Has Terms and Conditions doc Accepted
+    * Added [Thu 2012-02-23]
+  - Accept Terms and Conditions doc
+    * Added [Thu 2012-02-23]
+  - Flag Post
+    * Added [Thu 2012-02-23]
+  - Like Post
+    * Added [Thu 2012-02-23]
+  - Get Top Analysis
+    * Added [Thu 2012-02-23]
+  - Get Top Comments
+    * Added [Thu 2012-02-23]
+  - Search Users
+    * Added [Thu 2012-02-23]
+  - Get Top Users
+    * Added [Thu 2012-02-23]
+  - Find User by Id
+    * Added [Thu 2012-02-23]
 COMPLETED TASKS:
   - Fix chat problem on IE with regular expressions
     * Start [Thu 2012-02-16] [18:26]
@@ -42,5 +49,24 @@ COMPLETED TASKS:
     * Added [Sat 2012-02-18]
     * Start [Mon 2012-02-20] [11:17]
     * DONE [Mon 2012-02-20]
+  - Find solution for the certificate
+    * Added [Thu 2012-02-16]
+    * Start [Thu 2012-02-16] [17:35]
+    * talked to heroku, let's see what they say about this now
+    * DONE [Thu 2012-02-23]
+  - Do create post
+    * Added [Fri 2012-02-17]
+    * Start [Mon 2012-02-20] [21:39]
+    - add created at
+      * Added [Tue 2012-02-21]
+    * DONE [Thu 2012-02-23]
+  - Do get all posts
+    * Added [Fri 2012-02-17]
+    * Start [Mon 2012-02-20] [21:39]
+    * DONE [Thu 2012-02-23]
+  - Do get a post
+    * Added [Fri 2012-02-17]
+    * Start [Mon 2012-02-20] [21:39]
+    * DONE [Thu 2012-02-23]
 
 # vim:ft=quicktask
