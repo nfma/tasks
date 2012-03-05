@@ -1,16 +1,107 @@
 # Quicktask v1.1
 
 CURRENT TASKS:
-  - Get Top Analysis
-    * Added [Thu 2012-02-23]
-  - Get Top Comments
-    * Added [Thu 2012-02-23]
-  - Search Users
-    * Added [Thu 2012-02-23]
-  - Get Top Users
-    * Added [Thu 2012-02-23]
-  - Find User by Id
-    * Added [Thu 2012-02-23]
+  - get the by_user_id like working
+    * Added [Fri 2012-02-24]
+  - community user should be able to be suppressed by the admin ui
+    * Added [Mon 2012-03-05]
+  - banned users can only read stuff, error on
+    * Added [Mon 2012-03-05]
+    - find user id by name
+      * Added [Mon 2012-03-05]
+    - create community user
+      * Added [Mon 2012-03-05]
+    - update community user
+      * Added [Mon 2012-03-05]
+    - flag post
+      * Added [Mon 2012-03-05]
+    - like post
+      * Added [Mon 2012-03-05]
+    - create post
+      * Added [Mon 2012-03-05]
+  - revert suppressing of users and posts
+    * Added [Mon 2012-03-05]
+  - remove suppressed posts from
+    * Added [Mon 2012-03-05]
+    - get top comments
+      * Added [Mon 2012-03-05]
+    - get top analysis
+      * Added [Mon 2012-03-05]
+  - suppressed users posts should be flagged (save as suppressed)
+    * Added [Mon 2012-03-05]
+  - remove suppressed user from
+    * Added [Mon 2012-03-05]
+    - get top users
+      * Added [Mon 2012-03-05]
+    - search users
+      * Added [Mon 2012-03-05]
+  - return error when querying suppressed users with
+    * Added [Mon 2012-03-05]
+    - get user comments
+      * Added [Mon 2012-03-05]
+    - get user analysis
+      * Added [Mon 2012-03-05]
+    - update community user
+      * Added [Mon 2012-03-05]
+    - get community user
+      * Added [Mon 2012-03-05]
+    - get user profile
+      * Added [Mon 2012-03-05]
+  - revert flagging
+    * Added [Mon 2012-03-05]
+  - remove posts from results from
+    * Added [Mon 2012-03-05]
+    - get user comments
+      * Added [Mon 2012-03-05]
+    - get user analysis
+      * Added [Mon 2012-03-05]
+    - get top comments
+      * Added [Mon 2012-03-05]
+    - get top analysis
+      * Added [Mon 2012-03-05]
+  - change counters to reflect the removal of the post
+    * Added [Mon 2012-03-05]
+  - remove removed posts from top posts ranking
+    * Added [Mon 2012-03-05]
+  - add suppressed flag to posts and users
+    * Added [Mon 2012-03-05]
+  - add to posts responses
+    * Added [Mon 2012-03-05]
+    - removed when
+      * Added [Mon 2012-03-05]
+      - status code is 2
+        * Added [Mon 2012-03-05]
+      - status code is 1
+        * Added [Mon 2012-03-05]
+      - suppressed
+        * Added [Mon 2012-03-05]
+    - user_flagged when code is 11
+      * Added [Mon 2012-03-05]
+  - when a post is flagged by a moderator add code 1 to status
+    * Added [Mon 2012-03-05]
+  - when a post is flagged add code 11 to status
+    * Added [Mon 2012-03-05]
+  - add removed and user flagged to posts
+    * Added [Mon 2012-03-05]
+  - community user, admin flag should be removed
+    * Added [Mon 2012-03-05]
+  - update api doc with the right names on the counters
+    * Added [Mon 2012-03-05]
+  - attachment operations not returning attachment_id not found in the body when 
+    it doesn't exist
+    * Added [Mon 2012-03-05]
+  - get all posts returns 500 with pagination params
+    * Added [Mon 2012-03-05]
+  - get top users not returning profile counters
+    * Added [Mon 2012-03-05]
+  - search users
+    * Added [Mon 2012-03-05]
+    - profile counters not being returned
+      * Added [Mon 2012-03-05]
+    - fails to find 'pppp'
+      * Added [Mon 2012-03-05]
+  - get top analysis returns 500
+    * Added [Mon 2012-03-05]
 COMPLETED TASKS:
   - Fix chat problem on IE with regular expressions
     * Start [Thu 2012-02-16] [18:26]
@@ -79,5 +170,23 @@ COMPLETED TASKS:
   - Like Post
     * Added [Thu 2012-02-23]
     * DONE [Thu 2012-02-23]
+  - Get Top Analysis
+    * Added [Thu 2012-02-23]
+    * DONE [Fri 2012-02-24]
+  - Get Top Comments
+    * Added [Thu 2012-02-23]
+    * DONE [Fri 2012-02-24]
+  - Add the total to the collections
+    * Added [Fri 2012-02-24]
+    * DONE [Fri 2012-02-24]
+  - Search Users
+    * Added [Thu 2012-02-23]
+    * DONE [Fri 2012-02-24]
+  - Get Top Users
+    * Added [Thu 2012-02-23]
+    * DONE [Sat 2012-02-25]
+  - Find User by Id
+    * Added [Thu 2012-02-23]
+    * DONE [Sat 2012-02-25]
 
 # vim:ft=quicktask
