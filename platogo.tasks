@@ -3,8 +3,6 @@
 CURRENT TASKS:
   - add to the audit logs the user flagging
     * Added [Mon 2012-03-05]
-  - get the by_user_id like working
-    * Added [Fri 2012-02-24]
   - community user should be able to be suppressed by the admin ui
     * Added [Mon 2012-03-05]
   - banned users can only read stuff, error on
@@ -64,6 +62,10 @@ CURRENT TASKS:
   - change counters to reflect the removal of the post
     * Added [Mon 2012-03-05]
   - remove removed posts from top posts ranking
+    * Added [Mon 2012-03-05]
+  - get the by_user_id like working
+    * Added [Fri 2012-02-24]
+  - publish latest war file in s3
     * Added [Mon 2012-03-05]
 COMPLETED TASKS:
   - deploy and test app in prod
