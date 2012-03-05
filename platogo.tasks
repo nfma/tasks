@@ -1,6 +1,8 @@
 # Quicktask v1.1
 
 CURRENT TASKS:
+  - add to the audit logs the user flagging
+    * Added [Mon 2012-03-05]
   - get the by_user_id like working
     * Added [Fri 2012-02-24]
   - community user should be able to be suppressed by the admin ui
@@ -63,46 +65,76 @@ CURRENT TASKS:
     * Added [Mon 2012-03-05]
   - remove removed posts from top posts ranking
     * Added [Mon 2012-03-05]
+COMPLETED TASKS:
+  - deploy and test app in prod
+    * Added [Mon 2012-03-05]
+    * Start [Mon 2012-03-05] [16:52]
   - add suppressed flag to posts and users
     * Added [Mon 2012-03-05]
+    * DONE [Mon 2012-03-05]
   - add to posts responses
     * Added [Mon 2012-03-05]
     - removed when
       * Added [Mon 2012-03-05]
       - status code is 2
         * Added [Mon 2012-03-05]
+        * DONE [Mon 2012-03-05]
       - status code is 1
         * Added [Mon 2012-03-05]
+        * DONE [Mon 2012-03-05]
       - suppressed
         * Added [Mon 2012-03-05]
+        * DONE [Mon 2012-03-05]
     - user_flagged when code is 11
       * Added [Mon 2012-03-05]
+      * DONE [Mon 2012-03-05]
+  - add removed and user flagged to posts
+    * Added [Mon 2012-03-05]
+    * Start [Mon 2012-03-05] [16:35]
+    * DONE [Mon 2012-03-05]
   - when a post is flagged by a moderator add code 1 to status
     * Added [Mon 2012-03-05]
   - when a post is flagged add code 11 to status
     * Added [Mon 2012-03-05]
-  - add removed and user flagged to posts
-    * Added [Mon 2012-03-05]
+    * Start [Mon 2012-03-05] [15:45]
+    * DONE [Mon 2012-03-05]
   - community user, admin flag should be removed
     * Added [Mon 2012-03-05]
+    * Start [Mon 2012-03-05] [15:18]
+    * DONE [Mon 2012-03-05]
   - update api doc with the right names on the counters
     * Added [Mon 2012-03-05]
+    * Start [Mon 2012-03-05] [15:18]
+    * DONE [Mon 2012-03-05]
   - attachment operations not returning attachment_id not found in the body when 
     it doesn't exist
     * Added [Mon 2012-03-05]
+    * Start [Mon 2012-03-05] [15:09]
+    * DONE [Mon 2012-03-05]
   - get all posts returns 500 with pagination params
     * Added [Mon 2012-03-05]
+    * Start [Mon 2012-03-05] [13:22]
+    * DONE [Mon 2012-03-05]
   - get top users not returning profile counters
     * Added [Mon 2012-03-05]
+    * Start [Mon 2012-03-05] [13:18]
+    * DONE [Mon 2012-03-05]
   - search users
     * Added [Mon 2012-03-05]
+    * Start [Mon 2012-03-05] [13:00]
     - profile counters not being returned
       * Added [Mon 2012-03-05]
+      * Start [Mon 2012-03-05] [12:52]
+      * DONE [Mon 2012-03-05]
     - fails to find 'pppp'
       * Added [Mon 2012-03-05]
+      * Start [Mon 2012-03-05] [11:52]
+      * DONE [Mon 2012-03-05]
+    * DONE [Mon 2012-03-05]
   - get top analysis returns 500
     * Added [Mon 2012-03-05]
-COMPLETED TASKS:
+    * Start [Mon 2012-03-05] [11:36]
+    * DONE [Mon 2012-03-05]
   - Fix chat problem on IE with regular expressions
     * Start [Thu 2012-02-16] [18:26]
     * This makes the user id fail to be parsed from the url
