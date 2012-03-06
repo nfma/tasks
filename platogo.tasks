@@ -1,11 +1,13 @@
 # Quicktask v1.1
 
 CURRENT TASKS:
-  - add to the audit logs the user flagging
-    * Added [Mon 2012-03-05]
+  - roles working
+    * Added [Tue 2012-03-06]
+  - by_user_id forbidden
+    * Added [Tue 2012-03-06]
   - community user should be able to be suppressed by the admin ui
     * Added [Mon 2012-03-05]
-  - banned users can only read stuff, error on
+  - suppressed users can only read stuff, error on
     * Added [Mon 2012-03-05]
     - find user id by name
       * Added [Mon 2012-03-05]
@@ -19,55 +21,104 @@ CURRENT TASKS:
       * Added [Mon 2012-03-05]
     - create post
       * Added [Mon 2012-03-05]
-  - revert suppressing of users and posts
-    * Added [Mon 2012-03-05]
-  - remove suppressed posts from
-    * Added [Mon 2012-03-05]
-    - get top comments
-      * Added [Mon 2012-03-05]
-    - get top analysis
-      * Added [Mon 2012-03-05]
-  - suppressed users posts should be flagged (save as suppressed)
-    * Added [Mon 2012-03-05]
   - remove suppressed user from
     * Added [Mon 2012-03-05]
     - get top users
       * Added [Mon 2012-03-05]
     - search users
       * Added [Mon 2012-03-05]
+COMPLETED TASKS:
+  - the counters are broken (problem is on the number of analysis)
+    * Added [Tue 2012-03-06]
+    * DONE [Tue 2012-03-06]
+  - ordering is broken for all posts (probably everywhere)
+    * Added [Tue 2012-03-06]
+    * DONE [Tue 2012-03-06]
+  - check for attachment_id when creating users and posts
+    * Added [Tue 2012-03-06]
+    * DONE [Tue 2012-03-06]
+  - update documentation about the remove and user_suppressed flags
+    * Added [Tue 2012-03-06]
+    * Start [Tue 2012-03-06] [16:22]
+    * DONE [Tue 2012-03-06]
+  - remove status_code from posts
+    * Added [Tue 2012-03-06]
+    * Start [Tue 2012-03-06] [16:18]
+    * DONE [Tue 2012-03-06]
+  - fix the search users, outer join on posts is necessary
+    * Added [Tue 2012-03-06]
+    * Start [Tue 2012-03-06] [16:18]
+    * DONE [Tue 2012-03-06]
   - return error when querying suppressed users with
     * Added [Mon 2012-03-05]
     - get user comments
       * Added [Mon 2012-03-05]
+      * DONE [Tue 2012-03-06]
     - get user analysis
       * Added [Mon 2012-03-05]
+      * DONE [Tue 2012-03-06]
     - update community user
       * Added [Mon 2012-03-05]
+      * DONE [Tue 2012-03-06]
     - get community user
       * Added [Mon 2012-03-05]
+      * DONE [Tue 2012-03-06]
     - get user profile
       * Added [Mon 2012-03-05]
+      * DONE [Tue 2012-03-06]
+    * DONE [Tue 2012-03-06]
+  - remove suppressed posts from
+    * Added [Mon 2012-03-05]
+    - get top comments
+      * Added [Mon 2012-03-05]
+      * DONE [Tue 2012-03-06]
+    - get top analysis
+      * Added [Mon 2012-03-05]
+      * DONE [Tue 2012-03-06]
+    * DONE [Tue 2012-03-06]
+  - revert suppressing of users and posts
+    * Added [Mon 2012-03-05]
+    * DONE [Tue 2012-03-06]
+  - suppressed users posts should be flagged (save as suppressed)
+    * Added [Mon 2012-03-05]
+    * DONE [Tue 2012-03-06]
+  - add to the audit logs the user flagging
+    * Added [Mon 2012-03-05]
+    * DONE [Tue 2012-03-06]
   - revert flagging
     * Added [Mon 2012-03-05]
+    * DONE [Tue 2012-03-06]
   - remove posts from results from
     * Added [Mon 2012-03-05]
     - get user comments
       * Added [Mon 2012-03-05]
+      * DONE [Tue 2012-03-06]
     - get user analysis
       * Added [Mon 2012-03-05]
+      * DONE [Tue 2012-03-06]
     - get top comments
       * Added [Mon 2012-03-05]
+      * DONE [Tue 2012-03-06]
     - get top analysis
       * Added [Mon 2012-03-05]
+      * DONE [Tue 2012-03-06]
+    * DONE [Tue 2012-03-06]
   - change counters to reflect the removal of the post
     * Added [Mon 2012-03-05]
+    * Start [Tue 2012-03-06] [11:43]
+    * DONE [Tue 2012-03-06]
   - remove removed posts from top posts ranking
     * Added [Mon 2012-03-05]
+    * Start [Tue 2012-03-06] [11:37]
+    * DONE [Tue 2012-03-06]
   - get the by_user_id like working
     * Added [Fri 2012-02-24]
+    * Start [Tue 2012-03-06] [09:30]
+    * DONE [Tue 2012-03-06]
   - publish latest war file in s3
     * Added [Mon 2012-03-05]
-COMPLETED TASKS:
+    * Start [Tue 2012-03-06] [09:22]
+    * DONE [Tue 2012-03-06]
   - deploy and test app in prod
     * Added [Mon 2012-03-05]
     * Start [Mon 2012-03-05] [16:52]

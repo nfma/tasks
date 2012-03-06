@@ -11,6 +11,8 @@ CURRENT TASKS:
     * Added [Tue 2012-02-14]
   - juju from canonical
     * Added [Tue 2012-02-14]
+  - check out akka 2.0 with clojure
+    * Added [Tue 2012-03-06]
 COMPLETED TASKS:
 
 # vim:ft=quicktask
