@@ -3,31 +3,77 @@
 CURRENT TASKS:
   - roles working
     * Added [Tue 2012-03-06]
+  - creating a user should return an error if user is on the banned list
+    * Added [Wed 2012-03-07]
+  - banned user operations should return a 409 error
+    * Added [Wed 2012-03-07]
+    - and should return a text with the error
+      * Added [Wed 2012-03-07]
+COMPLETED TASKS:
+  - create banned users table
+    * Added [Wed 2012-03-07]
+    - the name should be called description
+      * Added [Wed 2012-03-07]
+      * DONE [Wed 2012-03-07]
+    * DONE [Wed 2012-03-07]
+  - banned words
+    * Added [Wed 2012-03-07]
+    * Start [Wed 2012-03-07] [14:52]
+    - add log indicating the words that flagged the post
+      * Added [Wed 2012-03-07]
+      * Start [Wed 2012-03-07] [15:22]
+      * DONE [Wed 2012-03-07]
+    * DONE [Wed 2012-03-07]
+  - alert words
+    * Added [Wed 2012-03-07]
+    * Start [Wed 2012-03-07] [14:52]
+    - add log indicating the words that flagged the post
+      * Added [Wed 2012-03-07]
+      * Start [Wed 2012-03-07] [15:22]
+      * DONE [Wed 2012-03-07]
+    * DONE [Wed 2012-03-07]
   - by_user_id forbidden
     * Added [Tue 2012-03-06]
-  - community user should be able to be suppressed by the admin ui
+    * DONE [Wed 2012-03-07]
+  - banned users can only read stuff, error on
     * Added [Mon 2012-03-05]
-  - suppressed users can only read stuff, error on
-    * Added [Mon 2012-03-05]
+    * Start [Wed 2012-03-07] [11:09]
     - find user id by name
       * Added [Mon 2012-03-05]
+      * Start [Wed 2012-03-07] [11:09]
+      * DONE [Wed 2012-03-07]
     - create community user
       * Added [Mon 2012-03-05]
+      * Start [Wed 2012-03-07] [11:18]
+      * NOT DONE [Wed 2012-03-07]
     - update community user
       * Added [Mon 2012-03-05]
+      * Start [Wed 2012-03-07] [11:39]
+      * NOT DONE [Wed 2012-03-07]
     - flag post
       * Added [Mon 2012-03-05]
+      * Start [Wed 2012-03-07] [11:39]
+      * DONE [Wed 2012-03-07]
     - like post
       * Added [Mon 2012-03-05]
+      * Start [Wed 2012-03-07] [11:39]
+      * DONE [Wed 2012-03-07]
     - create post
       * Added [Mon 2012-03-05]
+      * Start [Wed 2012-03-07] [11:39]
+      * DONE [Wed 2012-03-07]
   - remove suppressed user from
     * Added [Mon 2012-03-05]
+    * Start [Wed 2012-03-07] [11:02]
     - get top users
       * Added [Mon 2012-03-05]
+      * Start [Wed 2012-03-07] [11:02]
+      * DONE [Wed 2012-03-07]
     - search users
       * Added [Mon 2012-03-05]
-COMPLETED TASKS:
+      * Start [Wed 2012-03-07] [11:02]
+      * DONE [Wed 2012-03-07]
+    * DONE [Wed 2012-03-07]
   - the counters are broken (problem is on the number of analysis)
     * Added [Tue 2012-03-06]
     * DONE [Tue 2012-03-06]
