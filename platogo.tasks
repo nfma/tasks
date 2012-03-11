@@ -9,6 +9,10 @@ CURRENT TASKS:
     * Added [Wed 2012-03-07]
     - and should return a text with the error
       * Added [Wed 2012-03-07]
+  - change the attachments output of one picture
+    * Added [Thu 2012-03-08]
+  - add path to returns only bytes from an attachment
+    * Added [Thu 2012-03-08]
 COMPLETED TASKS:
   - create banned users table
     * Added [Wed 2012-03-07]
