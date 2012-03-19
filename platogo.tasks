@@ -1,15 +1,59 @@
 # Quicktask v1.1
 
 CURRENT TASKS:
+  - use the roles to block application operations on the two different instances
+    * Added [Thu 2012-03-15]
   - roles working
     * Added [Tue 2012-03-06]
+COMPLETED TASKS:
+  - remember 7 last passwords, do not allow any of the last 7 passwords
+    * Added [Wed 2012-03-14]
+    * DONE [Fri 2012-03-16]
+  - remove by_user_id validation for:
+      Accept Terms And Conditions Doc
+      Has Accepted
+      Get Top Analyses
+      Get Top Comments
+      Get All Posts
+      Get Post
+      Get Post Comments
+      Get User Analyses
+      Get User Comments
+      Get User Profile
+      Get Community User
+      Find UserIdByName
+      Search Users
+      Get Top Users
+    * Added [Thu 2012-03-15]
+    * DONE [Thu 2012-03-15]
+  - change log file and deploy scripts
+    * Added [Thu 2012-03-15]
+    * Start [Thu 2012-03-15] [12:03]
+    * DONE [Thu 2012-03-15]
+  - add version.txt file with app version :P
+    * Added [Thu 2012-03-15]
+    * DONE [Thu 2012-03-15]
+  - password must not contain username
+    * Added [Wed 2012-03-14]
+    * DONE [Wed 2012-03-14]
+  - password needs to be changed every 90 days
+    * Added [Wed 2012-03-14]
+    * DONE [Wed 2012-03-14]
+  - move sessions to cookies
+    * Added [Wed 2012-03-14]
+    * DONE [Wed 2012-03-14]
+  - csv export of admin users
+    * Added [Wed 2012-03-14]
+    * Start [Wed 2012-03-14] [15:26]
+    * DONE [Wed 2012-03-14]
   - creating a user should return an error if user is on the banned list
     * Added [Wed 2012-03-07]
+    * DONE [Tue 2012-03-13]
   - banned user operations should return a 409 error
     * Added [Wed 2012-03-07]
     - and should return a text with the error
       * Added [Wed 2012-03-07]
-COMPLETED TASKS:
+    * DONE [Tue 2012-03-13]
   - change the attachments output of one picture
     * Added [Thu 2012-03-08]
     * DONE [Mon 2012-03-12]

@@ -1,6 +1,16 @@
 # Quicktask v1.1
 
 CURRENT TASKS:
+  - small project with clojure and clojurescript
+    * Added [Mon 2012-03-19]
+  - Take the Monad presentation in ClojureWest and use monads in a project
+    * Added [Sun 2012-03-18]
+  - Have a look at the language/framework Opa
+    * Added [Sun 2012-03-18]
+  - Have a look at X10 from IBM
+    * Added [Sun 2012-03-18]
+  - Look at Chapel from Cray
+    * Added [Sun 2012-03-18]
   - Look at embedded servlet engines in java
     * Added [Tue 2012-02-14]
   - Look at Neo4J
