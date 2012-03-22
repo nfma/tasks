@@ -1,11 +1,34 @@
 # Quicktask v1.1
 
 CURRENT TASKS:
-  - use the roles to block application operations on the two different instances
+  - do the backend for the dashboard
+    * Added [Thu 2012-03-22]
+COMPLETED TASKS:
+  - configure the app to block application operations on the two different 
+    instances
     * Added [Thu 2012-03-15]
+    * DONE [Thu 2012-03-22]
+  - tell jakob about the reset password
+    * Added [Thu 2012-03-22]
+    * DONE [Thu 2012-03-22]
+  - fix the enable disabled user
+    * Added [Thu 2012-03-22]
+    * DONE [Thu 2012-03-22]
+  - reflect the permissions in the code
+    * Added [Thu 2012-03-22]
+    * Start [Thu 2012-03-22] [15:23]
+    * DONE [Thu 2012-03-22]
+  - populate production db
+    * Added [Thu 2012-03-22]
+    * Start [Thu 2012-03-22] [11:18]
+    * DONE [Thu 2012-03-22]
+  - configure active record to support clustered oracle dbs
+    * Added [Wed 2012-03-21]
+    * DONE [Wed 2012-03-21]
   - roles working
     * Added [Tue 2012-03-06]
-COMPLETED TASKS:
+    * Start [Mon 2012-03-19] [09:59]
+    * DONE [Wed 2012-03-21]
   - remember 7 last passwords, do not allow any of the last 7 passwords
     * Added [Wed 2012-03-14]
     * DONE [Fri 2012-03-16]
